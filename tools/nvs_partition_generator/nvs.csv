@@ -1,0 +1,3 @@
+key,type,encoding,value
+PARAM_1,data,string,123123
+TEST_FILE,file,string,./files/test.txt
